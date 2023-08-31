@@ -17,12 +17,10 @@ Neste repositório cennntralizo meus arquivos .json
 
 # Unicodes | Desenvolvimento de Softwares
 
-Repositório Master de Aplicativos Unicodes
-
 Unicodes https://www.unicodes.com.br
 
 
-## Autores
+## Autor
 
 - [@Thiago-Unicodes](https://www.github.com/Thiago-Unicodes)
 
